@@ -1,8 +1,8 @@
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjaxx&label=Profile%20views&color=0e75b6&style=flat" alt="yashjaxx" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, MySQL, React.**
+- 🌱 I’m currently learning **Python, Django, MySQL, React, Ruby on Rails.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
